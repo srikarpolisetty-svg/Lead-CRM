@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+outputs/
+emails/
+emails_batch2/
+*.csv
+*.xlsx
+*.pdf
+node_modules
+CLAUDE_HANDOFF/
+THREAD_MEMORY_HANDOFF_2026-05-30.md
